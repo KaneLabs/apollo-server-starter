@@ -1,7 +1,7 @@
 {
   "name": "apollo-server-starter",
   "version": "0.0.2",
-  "description": "",
+  "description": "GraphQL API with apollo-server-express",
   "main": "src/index.js",
   "scripts": {
     "start": "node index.js",
